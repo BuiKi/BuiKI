@@ -25,6 +25,8 @@
 
 ## 📈 My Repositories & Projects
 *💻 "Source code for practical Mechatronics and AI projects will be systematically documented and updated here as they develop."*
+### 📈 My Repositories & Projects
 
+- 🚗 **[AI Bluetooth Smart Vehicle](https://github.com/BuiKi/arduino-bluetooth-car)**: Firmware điều khiển xe robot thông minh tích hợp radar siêu âm quét liên tục (Non-blocking) và giao tiếp Bluetooth. *(Phần xử lý AI/Python đang được phát triển)*
 ---
 *"Driven by curiosity, powered by Python, and aspiring to build intelligent systems for the future."*
