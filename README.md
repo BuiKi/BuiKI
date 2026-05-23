@@ -46,6 +46,7 @@
 - **Description:** Core embedded firmware and software ecosystem for an autonomous robot vehicle utilizing an asynchronous, non-blocking ultrasonic radar subsystem for proactive obstacle avoidance.
 - **Key Features Under Development:**
   - 🎥 **Computer Vision Core:** Real-time **Hand Gesture Control** and **Driver Drowsiness Detection (Face Mesh Tracking)** via MediaPipe.
+  -  🗺️ **Autonomous Path Planning & Dynamic Rerouting:** Real-time optimal path generation when detecting obstacles, transitioning from simple collision avoidance to intelligent trajectory recalculation.
   - ⚡ **Smart Safety Override:** Auto-braking and autonomous parking maneuvers executed if the system detects the driver falling asleep.
   - 🖥️ **PyQt5 Operator Dashboard:** A sleek desktop GUI on PC to display live radar telemetry, video stream, system states, and manual override controls.
 
