@@ -53,7 +53,8 @@
   - 🗺️ **Autonomous Path Planning & Dynamic Rerouting:** Real-time optimal path generation when detecting obstacles, transitioning from simple collision avoidance to intelligent trajectory recalculation.
   - ⚡ **Smart Safety Override:** Auto-braking and autonomous parking maneuvers executed if the system detects the driver falling asleep.
   - 🖥️ **PyQt5 Operator Dashboard:** A sleek desktop GUI on PC to display live radar telemetry, video stream, system states, and manual override controls.
-
+https://github.com/BuiKi/arduino-bluetooth-car
+https://github.com/BuiKi/arduino-bluetooth-car-AI-python
 ---
 
 ### ⚡ Industrial Edge AI Energy Optimization Module
@@ -65,6 +66,7 @@
   - 📊 **Streamlit Real-Time Dashboard:** An interactive web UI integrated with **Plotly** to visualize dynamic comparison curves between actual energy consumption ($E_{actual}$) and intelligent optimal thresholds ($E_{optimal}$)[cite: 1].
   - 🔒 **Commercial B2B Ready:** Designed with a hardware-agnostic core and intellectual property protection strategies to allow smooth bundling into industrial gateways[cite: 1].
 
+https://github.com/BuiKi/industrial-edge-ai-energy-optimizer
 ---
 
 <p align="center">
