@@ -54,20 +54,19 @@
   - ⚡ **Smart Safety Override:** Auto-braking and autonomous parking maneuvers executed if the system detects the driver falling asleep.
   - 🖥️ **PyQt5 Operator Dashboard:** A sleek desktop GUI on PC to display live radar telemetry, video stream, system states, and manual override controls.
 
-https://github.com/BuiKi/arduino-bluetooth-car
-https://github.com/BuiKi/arduino-bluetooth-car-AI-python
+
 ---
 
 ### ⚡ Industrial Edge AI Energy Optimization Module
 - **Tech Stack:** Python, FastAPI, LightGBM, PostgreSQL, Streamlit, Pandas, NumPy, APScheduler, JWT, Docker
-- **Description:** An advanced, production-grade **Edge AI and Embedded Software Module** engineered for industrial system integrators[cite: 1]. The system embeds directly into monitoring hardware to ingest real-time sensor streams, predict optimal energy baselines ($E_{optimal}$), adapt autonomously to mechanical wear and tear, and flag energy-waste checkpoints instantly[cite: 1].
+- **Description:** An advanced, production-grade **Edge AI and Embedded Software Module** engineered for industrial system integrators. The system embeds directly into monitoring hardware to ingest real-time sensor streams, predict optimal energy baselines ($E_{optimal}$), adapt autonomously to mechanical wear and tear, and flag energy-waste checkpoints instantly.
 - **Key Architecture & Features:**
-  - 🧠 **Edge AI & Adaptive Learning:** Utilizes optimized **LightGBM** models for millisecond-level inference, paired with automated background scheduling (`APScheduler`) for incremental model fine-tuning against equipment aging[cite: 1].
+  - 🧠 **Edge AI & Adaptive Learning:** Utilizes optimized **LightGBM** models for millisecond-level inference, paired with automated background scheduling (`APScheduler`) for incremental model fine-tuning against equipment aging.
   - 🚀 **Asynchronous Backend API:** Powered by **FastAPI** and WebSockets for high-frequency sensor telemetry ingestion, secured with JWT authentication and strict multi-tenant `client_id` PostgreSQL isolation[cite: 1].
-  - 📊 **Streamlit Real-Time Dashboard:** An interactive web UI integrated with **Plotly** to visualize dynamic comparison curves between actual energy consumption ($E_{actual}$) and intelligent optimal thresholds ($E_{optimal}$)[cite: 1].
-  - 🔒 **Commercial B2B Ready:** Designed with a hardware-agnostic core and intellectual property protection strategies to allow smooth bundling into industrial gateways[cite: 1].
+  - 📊 **Streamlit Real-Time Dashboard:** An interactive web UI integrated with **Plotly** to visualize dynamic comparison curves between actual energy consumption ($E_{actual}$) and intelligent optimal thresholds ($E_{optimal}$).
+  - 🔒 **Commercial B2B Ready:** Designed with a hardware-agnostic core and intellectual property protection strategies to allow smooth bundling into industrial gateways.
 
-https://github.com/BuiKi/industrial-edge-ai-energy-optimizer
+
 ---
 
 <p align="center">
