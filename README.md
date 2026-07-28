@@ -59,7 +59,7 @@
 ---
 
 ### ⚡ Industrial Edge AI Energy Optimization Module
-- **Tech Stack:** Python, FastAPI, LightGBM, PostgreSQL, Streamlit, Pandas, NumPy, APScheduler, JWT, Docker
+- **Tech Stack:** Python, FastAPI, LightGBM, Scikit- learn, PostgreSQL, Streamlit, Pandas, NumPy, APScheduler, JWT, Docker
 - **Description:** An advanced, production-grade **Edge AI and Embedded Software Module** engineered for industrial system integrators. The system embeds directly into monitoring hardware to ingest real-time sensor streams, predict optimal energy baselines ($E_{optimal}$), adapt autonomously to mechanical wear and tear, and flag energy-waste checkpoints instantly.
 - **Key Architecture & Features:**
   - 🧠 **Edge AI & Adaptive Learning:** Utilizes optimized **LightGBM** models for millisecond-level inference, paired with automated background scheduling (`APScheduler`) for incremental model fine-tuning against equipment aging.
